@@ -5,7 +5,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 /**
- * This is the main application class for the Dwarf Planets JavaFX application.
+ * This is the main application class for the NoteMaker JavaFX application.
  */
 public class TextEditor extends Application {
 
